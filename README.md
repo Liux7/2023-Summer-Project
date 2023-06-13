@@ -1,6 +1,6 @@
 # CNN_PyTorch
 
-1. 首先实现基于MNIST数据集的手写识别 (v0)
+## 1. 首先实现基于MNIST数据集的手写识别 (v0)
 
 python=3.6 cuda=10.2 
 
@@ -18,5 +18,5 @@ train speedup: 7.56x
 
 test  speedup: 6.41x
 
-2. 尝试输入其他图片
+## 2. 尝试输入其他图片
 
